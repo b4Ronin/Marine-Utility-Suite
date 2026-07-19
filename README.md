@@ -1,2 +1,12 @@
-# Marine-Utility-Suite
-Marine Utility Suite is an offline-capable PWA for offshore and marine operations. It combines specialized calculators into one installable app with shared navigation, automatic data saving, and GitHub Pages support. Current modules: Fuel Meter and Bulk Cement Calculator.
+# Marine Utility Suite
+
+GitHub Pages-ready static Progressive Web App containing:
+
+- Fuel Meter
+- Bulk Cement Calculator
+
+## Deploy
+
+Upload all files to the root of a GitHub repository, then enable **Settings → Pages → Deploy from a branch → main / root**.
+
+The app caches itself after the first successful online load and can then operate offline.
